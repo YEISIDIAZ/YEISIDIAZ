@@ -1,9 +1,9 @@
-# ¡Hola! 👋 mi nombre es CARLOS NARVAEZ
+# ¡Hola! 👋 mi nombre es YEISI YURLEIDY DIAZ
 
 ## Acerca de mí
-- 💻 Programador full stack con experiencia en tecnologías web.
-- 🎓 Soy un ingeniero de sistemas, con una especialización en Sistemas Interactivos Digitales y un Máster en Business Intelligence de la Universidad de Barcelona.
-- 🌐 Conocimiento en tecnologías como React, Redux, Node.js, Sequelize, PostgreSQL, Express, JavaScript, CSS y HTML.
+- 💻 Tecnología | Desarrolladora Frontend | Frontend Developer | 
+- 🎓 Soy una desarrolladora Front-End apasionada y dedicada con experiencia en el diseño y desarrollo de aplicaciones web        interactivas y atractivas utilizando HTML, CSS y JavaScript.
+- 🌐 Conocimiento en tecnologías como HTML | CSS | SASS | JavaScript | React.js | Node.js | Git | Desarrollo Web
 - 🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
 - 📊 Familiarizado con la metodología ágil de Scrum.
 
@@ -21,8 +21,8 @@
 
 ## Contacto
 No dudes en contactarme😊 
-- LinkedIn: [linkedin.com/in/carlosnr9](https://www.linkedin.com/in/carlosnr9/)
-- Correo: carlosnr9@gmail.com
+- LinkedIn: [linkedin.com/in/yurleidydiaz]([https://www.linkedin.com/in/carlosnr9/](https://www.linkedin.com/in/yurleidy-diaz-638112271/))
+- Correo: yurleidydiaz01.1@gmail.com
 
 ## Proyectos destacados
 - [PI-POKEMON](https://github.com/CARLOSNR9/PI_Pokemon_Henry): Aplicación web para explorar y buscar POKEMONES, utilizando una API de pokemon go.
