@@ -1,4 +1,4 @@
-# ¡Hola! 👋 mi nombre es YEISI YURLEIDY DIAZ
+# ¡Hola! 👋 mi nombre es YEISI YURLEIDY DIAZ 
 
 ## Acerca de mí
 - 💻 Tecnología | Desarrolladora Frontend | Frontend Developer | 
@@ -25,9 +25,9 @@ No dudes en contactarme😊
 - Correo: yurleidydiaz01.1@gmail.com
 
 ## Proyectos destacados
-- [PI-POKEMON](https://github.com/CARLOSNR9/PI_Pokemon_Henry): Aplicación web para explorar y buscar POKEMONES, utilizando una API de pokemon go.
+- [RED SOCIAL SHOWZONE](https://github.com/YEISIDIAZ/DEV004-social-network): Pagina Web dedicada a la informacion del mundo de la farandula, proyectada al estilo de una red social, con reacciones y publicaciones (post) en el muro.
 
 ## Proyectos en los que he colaborado
-- [meditech-frontend](https://github.com/jacadev/meditech-frontend): Repositorio frontend del proyecto Meditech, una aplicación de reserva de citas médicas.
+- [PokemonGO](https://github.com/YEISIDIAZ/DEV004-data-lovers): Repositorio frontend del proyecto POKEMON utilizando Api externas mostrar las tarjetas de los pokemones para comprender mejor este famoso juego.
 
-- [meditech-backend](https://github.com/jacadev/meditech-backend): Repositorio backend del proyecto Meditech, una aplicación de reserva de citas médicas.
+- [Validar Tarjetas de Credito](https://github.com/YEISIDIAZ/DEV004-card-validationParteB): Repositorio frontend del proyecto Validador de Tarjetas de Credito, linda manera de aplicar el algoritmo de Luhn para este importante proyecto para los usuarios de las tarjetas de credito.
