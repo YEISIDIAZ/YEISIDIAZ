@@ -53,20 +53,6 @@
 
 <br/>  
 
-
-## Spotify Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />   
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/AlexandraValdez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="50" /></a> <a href="https://www.linkedin.com/in/alexandravaldezs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="50" /></a></p>
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/alexandrav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ## Contacto
 No dudes en contactarme😊 
 - LinkedIn: [linkedin.com/in/yurleidydiaz]([https://www.linkedin.com/in/carlosnr9/](https://www.linkedin.com/in/yurleidy-diaz-638112271/))
